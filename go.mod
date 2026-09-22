@@ -73,12 +73,12 @@ require (
 	github.com/containernetworking/plugins v1.9.1
 	github.com/google/go-containerregistry v0.20.3
 	github.com/iamacarpet/go-win64api v0.0.0-20240507095429-873e84e85847
-	github.com/k3s-io/helm-controller v0.17.7
+	github.com/k3s-io/helm-controller v0.17.9
 	github.com/k3s-io/k3s v1.36.5-0.20260915232631-dca49392c395 // release-1.36
 	github.com/k3s-io/kine v0.16.5
 	github.com/libp2p/go-netroute v0.4.0
-	github.com/onsi/ginkgo/v2 v2.28.1
-	github.com/onsi/gomega v1.39.1
+	github.com/onsi/ginkgo/v2 v2.32.1
+	github.com/onsi/gomega v1.42.1
 	github.com/otiai10/copy v1.14.1
 	github.com/rancher/permissions v0.0.0-20240523180510-4001d3d637f7
 	github.com/rancher/wharfie v0.7.1
@@ -449,7 +449,7 @@ require (
 	k8s.io/cloud-provider v0.35.2 // indirect
 	k8s.io/cluster-bootstrap v0.35.2 // indirect
 	k8s.io/component-helpers v0.36.4 // indirect
-	k8s.io/controller-manager v0.35.1 // indirect
+	k8s.io/controller-manager v0.35.8 // indirect
 	k8s.io/cri-client v0.36.4 // indirect
 	k8s.io/cri-streaming v0.36.4 // indirect
 	k8s.io/csi-translation-lib v0.0.0 // indirect
